@@ -1,0 +1,5 @@
+body{margin:0;font-family:Arial;background:#0b1f3a;display:flex;justify-content:center;align-items:center;height:100vh;color:#fff}
+.card{background:#08162b;padding:30px;border-radius:20px;text-align:center;width:340px}
+.logo{width:120px}input,button{width:100%;padding:12px;margin-top:10px;font-size:18px}
+button{background:#f7c600;border:none;border-radius:8px;font-weight:bold}
+#resultado{margin-top:15px;color:#f7c600;font-size:18px}
